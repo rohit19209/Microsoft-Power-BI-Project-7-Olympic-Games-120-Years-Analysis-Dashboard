@@ -1,6 +1,6 @@
 # Microsoft-Power-BI-Project-7-Olympic-Games-120-Years-Analysis-Dashboard
 
-Prerequitise- Download Microsoft Power BI Desktop latest Version in your local system.                                                                                                                                                                                                                                                                                 
+Prerequisite- Download Microsoft Power BI Desktop latest Version in your local system.                                                                                                                                                                                                                                                                                 
 </br>
 Steps to follow to view the Dashboard:
 1) Download the .rar File
